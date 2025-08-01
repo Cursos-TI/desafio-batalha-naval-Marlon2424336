@@ -1,4 +1,4 @@
-README.md – Desafio Batalha Naval (Nível Novato)
+Desafio Batalha Naval (Nível Novato)
 Sobre o projeto
 Este projeto foi feito para o desafio de programação da Estácio. A proposta era montar um tabuleiro 5x5 e posicionar dois navios usando vetores bidimensionais. O foco era aprender a usar matrizes e entender como funciona o posicionamento de elementos nela.
 
